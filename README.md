@@ -24,12 +24,16 @@ We then focus only on the most important details: match ID, ball number, bowling
 🧠  Shahid Afridi’s Performance
 To make this even more interesting, we pick a specific player — Shahid Afridi — and study his performance:
 
-How many runs he scored against each bowler
+Total matches played
 
-How often he got out and by which method (e.g., bowled, caught)
+Total runs in ODIs
 
-How he performed over each over (like what he scored in the 1st over, 2nd over, etc.) across 20 matches
+Highest runs in a match
 
-From that, we can also calculate his average performance
+Average runs in ODIs
+
+Matches where he got out on 0
+
+Dismissal Stats (How he got out)
 
 This setup makes it easier to zoom in on any batsman and get detailed stats, whether you're a cricket fan or working on a sports data project!
