@@ -1,0 +1,3 @@
+In this project, the raw data from a marketing campaign (bank_marketing.csv) is cleaned, transformed, and split into three structured CSV files (client.csv, campaign.csv, and economics.csv). The cleaned data is formatted to match the required schema and data types for easy integration into a PostgreSQL database.
+
+Detailed cleaning and transformation steps are documented in the accompanying .ipynb notebook.
